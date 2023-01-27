@@ -1,0 +1,10 @@
+header{display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  height: 60px;
+  background-color: rgb(32, 220, 208);
+  color: white;
+
+  font-weight: bold;
+}
